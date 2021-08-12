@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sat02yam@gmail.com**
 
-- 📄 Know about my experiences [Click here for resume](https://drive.google.com/file/d/1VMG-LuDIBFftl43W9Y7eUlmQ2lU4J8Hg/view?usp=sharing)
+- 📄 Know about my experiences [Click here for resume](https://docs.google.com/document/d/1tjGe0gyg7mpgL7cXVsqHQODY6spC8dPaiJlB0C2iOio/edit?usp=sharing)
 
 - ⚡ Fun fact **I think I'm funny**
 
