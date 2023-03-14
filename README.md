@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sat02yam&label=Profile%20views&color=0e75b6&style=flat" alt="sat02yam" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working for **CaratLane**
 
 - 📫 How to reach me **sat02yam@gmail.com**
 
-- 📄 Know about my experiences [Click here for resume](https://docs.google.com/document/d/1tjGe0gyg7mpgL7cXVsqHQODY6spC8dPaiJlB0C2iOio/edit?usp=sharing)
+- 📄 Know about my experiences [Click here for resume](https://satyam.design/resume)
 
 - ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sat02yam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satzified" height="30" width="40" /></a>
+<a href="https://twitter.com/0xSatyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satzified" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sat02yam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sat02yam" height="30" width="40" /></a>
 <a href="https://instagram.com/sat.zzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sat.zzzz" height="30" width="40" /></a>
 </p>
